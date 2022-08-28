@@ -4,7 +4,7 @@
 
 
 ## Overview of Analysis
-W. Avy is planning to open a surf and ice cream shop in Hawaii. This analaysis highlights temperature trends for June and December to determine if the business is sustainabble year-round.
+W. Avy is planning to open a surf and ice cream shop in Hawaii. This analaysis `meausures` temperature trends for June and December to determine if the business is sustainabble year-round.
     
 ## Results
 
