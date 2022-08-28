@@ -8,7 +8,7 @@ W. Avy is planning to open a surf and ice cream shop in Hawaii. This analaysis `
     
 ## Results
 
-Using Python, Pandas functions and methods, and SQLAlchemy, I filtered the date column of the Measurements table in the `hawaii.sqlite` database to retrieve the temperatures for the month of June and December. Additionally, I converted the temperatures to a list and then created a DataFrame. 
+Using Python, Pandas functions and methods, and SQLAlchemy, I filtered the date column of the `Measurements` table in the `hawaii.sqlite` database to retrieve the temperatures for the month of June and December. Additionally, I converted the temperatures to a list and then created a DataFrame. 
 
 ### **June - Temperatures, List and DataFrame**
 <p align="center" width="100%">
