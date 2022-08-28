@@ -18,7 +18,10 @@ Using Python, Pandas functions and methods, and SQLAlchemy, I filtered the date 
 <p align="center" width="100%">
     <img width="80%" src="https://github.com/molivajimenez22/Surfs_Up/blob/main/Resources/December_Temperatures_Final.png">
     
-Finally, I generated the summary statistics for June and December temperatured DataFrames. 
+### **June & December Summary Statistics**
+    
+Finally, I generated the summary statistics for June and December temperatures DataFrames. 
+    
 <p align="center" width="100%">
     <img width="44%" src="https://github.com/molivajimenez22/Surfs_Up/blob/main/Resources/Summary_Stats.png">
 
