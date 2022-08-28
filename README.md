@@ -10,11 +10,11 @@ W. Avy is planning to open a surf and ice cream shop in Hawaii. This analaysis `
 
 Using Python, Pandas functions and methods, and SQLAlchemy, I filtered the date column of the Measurements table in the `hawaii.sqlite` database to retrieve the temperatures for the month of June and December. Additionally, I converted the temperatures to a list and then created a DataFrame. 
 
-**June - Temperatures, List and DataFrame**
+### **June - Temperatures, List and DataFrame**
 <p align="center" width="100%">
     <img width="80%" src="https://github.com/molivajimenez22/Surfs_Up/blob/main/Resources/June_Temperatures_Final.JPG">
     
-**December - Temperatures, List and DataFrame**
+### **December - Temperatures, List and DataFrame**
 <p align="center" width="100%">
     <img width="80%" src="https://github.com/molivajimenez22/Surfs_Up/blob/main/Resources/December_Temperatures_Final.png">
     
