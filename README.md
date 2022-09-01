@@ -12,22 +12,26 @@ W. Avy is planning to open a surf and ice cream shop in Hawaii. This analaysis `
 
     1. Determine the Summary Statistics for June
     2. Determine the Summary Statistics for December
+    3. Summary statistics for June and December
     
-**Method**
-Using Python, Pandas functions and methods, and SQLAlchemy, I filtered the date column of the `Measurements` table in the `hawaii.sqlite` database to retrieve the temperatures for the month of June and December. Additionally, I converted the temperatures to a list and then created a DataFrame. 
+**Method for Summary Statistics**
+    
+    1. Using Python, Pandas functions and methods, and SQLAlchemy, I filtered the date column of the `Measurements` table in the `hawaii.sqlite` database to retrieve the temperatures for the month of June and December. 
+    2. Additionally, I converted the temperatures to a list and then created a DataFrame. 
+    3. Finally, I generated the summary statistics for June and December temperatures DataFrames. 
+    
+The snapshots below shows the output of the above.
 
-### **Summary Statistics for June - Temperatures, List and DataFrame**
+### **1. Summary Statistics for June - Temperatures, List and DataFrame**
 
 <p align="center" width="100%">
     <img width="80%" src="https://github.com/molivajimenez22/Surfs_Up/blob/main/Resources/June_Temperatures_Final.JPG">
     
-### **Summary Statistics for December - Temperatures, List and DataFrame**
+### **2. Summary Statistics for December - Temperatures, List and DataFrame**
 <p align="center" width="100%">
     <img width="80%" src="https://github.com/molivajimenez22/Surfs_Up/blob/main/Resources/December_Temperatures_Final.png">
     
-### **Summary Statistics for June and December**
-    
-Finally, I generated the summary statistics for June and December temperatures DataFrames. 
+### **3. Summary Statistics for June and December**
     
 <p align="center" width="100%">
     <img width="44%" src="https://github.com/molivajimenez22/Surfs_Up/blob/main/Resources/Summary_Stats.png">
