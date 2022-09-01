@@ -36,7 +36,7 @@ The snapshots below shows the output of the above.
 <p align="center" width="100%">
     <img width="44%" src="https://github.com/molivajimenez22/Surfs_Up/blob/main/Resources/Summary_Stats.png">
     
-Three key differences in weather between June and December
+### **Three key differences in weather between June and December**
 
 1. The mean temperature for June is higher in June at 75°F than 71°F in December
 2. December's temperature range is larger (56 to 83) to June's range (64 to 85)
